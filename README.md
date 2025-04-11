@@ -2,7 +2,7 @@
 
 Este proyecto es una aplicación web desarrollada con React y servicios de AWS para gestionar eficientemente las actividades y documentos del área de medicina de la Dirección de Bienestar Universitario en una institución de educación superior. Su objetivo es modernizar la administración documental, mejorar el acceso a la información y optimizar los procesos internos mediante el uso de tecnologías escalables y seguras.
 
-# Características principales #
+## Características principales 
 
 1.- Gestión de actividades del área médica.
 
